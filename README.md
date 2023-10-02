@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zhr-buct
-- 👀 I’m interested in python
+- 👋 Hi,My name is haoran zhou. Master of control engineering, Beijing University of Chemical Technology .
+- 👀 I’m interested in python， deep learning
 - 🌱 I’m currently learning pytorch, deep learning
 - 📫 How to reach me wechat:zhr530629
 
